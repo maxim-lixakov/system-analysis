@@ -67,9 +67,9 @@ Apache Spark — это быстрая и обобщенная система в
 - **response**: 
   - **Описание**: Выход системы. Отправляет результаты пользователю.
 
-## Схема Системы
+## Работа Системы
 
-image/video from anylogic
+[![Video Name](https://seuladogeek.com.br/wp-content/uploads/2022/02/Youtube-Logo-1536x864.png)](https://youtu.be/UFtW2P_Af0c "Video Name")
 
 --- 
 --- 
