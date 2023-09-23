@@ -1,8 +1,7 @@
 # Homework 1 - _Modeling work of Apache Spark_
 
-# Описание Модели Apache Spark в AnyLogic
 
-## 1. Описание Системы
+## Описание Системы
 
 Apache Spark — это быстрая и обобщенная система вычислений для больших данных, предоставляющая высокоуровневые API на Java, Scala, Python и R, а также предоставляющая оптимизированный движок, который поддерживает общие вычислительные графы. Он также поддерживает набор высокоуровневых инструментов, включая [Spark SQL](https://spark.apache.org/sql/) для SQL и структурированных данных, [MLlib](https://spark.apache.org/mllib/) для машинного обучения, [GraphX](https://spark.apache.org/graphx/) для обработки графов и [Structured Streaming](https://spark.apache.org/structured-streaming/) для обработки потоков.
 
